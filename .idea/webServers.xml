@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c197b40-7a76-4072-aa09-7c78f221fd8d" name="html-css" url="https://bootcamp-coders.cnm.edu/~latencio23/project-html-css/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/latencio23/public_html/project-html-css" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
